@@ -7,7 +7,7 @@ Cours module data science 2025-2026
 
 [Cours 2](https://github.com/Jehadel/Data-Science-cours/blob/main/Data-Science-02-matrices-ACP_VIERGE.ipynb) : matrices, transformations, changement de base, ACP ([corrigé](https://github.com/Jehadel/Data-Science-cours/blob/main/Data-Science-02-matrices-ACP_CORRIGE.ipynb))
 
-[TP 2a](https://github.com/Jehadel/Data-Science-cours/blob/main/TP_Kmeans_PCA_Music_Recommendation_VIERGE.ipynb) : k-means et ACP pour un système de recommandation
+[TP 2a](https://github.com/Jehadel/Data-Science-cours/blob/main/TP_Kmeans_PCA_Music_Recommendation_VIERGE.ipynb) : k-means et ACP pour un système de recommandation ([corrigé](https://github.com/Jehadel/Data-Science-cours/blob/main/TP_Kmeans_PCA_Music_Recommendation_CORRIGE.ipynb))
 
 [TP 2a Bonus](https://github.com/Jehadel/Data-Science-cours/blob/main/TP_Musique_Recommandation_Bonus_Hierarchique_VIERGE.ipynb) : améliorer le système de recommandation avec du clustering hiérarchique
 
