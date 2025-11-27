@@ -5,6 +5,8 @@ Cours module data science 2025-2026
 
 [TP 1](https://github.com/Jehadel/Data-Science-cours/blob/main/TP_Compression_Image_Kmeans_VIERGE.ipynb) : k-means pour la compression d’images ([corrigé](https://github.com/Jehadel/Data-Science-cours/blob/main/TP_Compression_Image_Kmeans_CORRIGE.ipynb))
 
+[TP 1 Bonus](https://github.com/Jehadel/Data-Science-cours/blob/main/TP_Musique_Recommandation_Bonus_Hierarchique_VIERGE.ipynb) : améliorer le système de recommandation avec du clustering hiérarchique
+
 [Cours 2](https://github.com/Jehadel/Data-Science-cours/blob/main/Data-Science-02-matrices-ACP_VIERGE.ipynb) : matrices, transformations, changement de base, ACP
 
 [TP 2a](https://github.com/Jehadel/Data-Science-cours/blob/main/TP_Kmeans_PCA_Music_Recommendation_VIERGE.ipynb) : k-means et ACP pour un système de recommandation
