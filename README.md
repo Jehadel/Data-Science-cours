@@ -13,4 +13,4 @@ Cours module data science 2025-2026
 
 [TP 2b](https://github.com/Jehadel/Data-Science-cours/blob/main/TP_ACP_reconnaissance_visages_VIERGE.ipynb) : ACP pour préparer la reconnaissance de visages ([corrigé](https://github.com/Jehadel/Data-Science-cours/blob/main/TP_ACP_reconnaissance_visages_CORRIGE.ipynb))
 
-[Présentation des généralités sur le Machine Learning](https://github.com/Jehadel/Data-Science-cours/blob/main/Machine%20Learning%20_%20G%C3%A9n%C3%A9ralit%C3%A9s.pdf) : explications SVM + indications pour optimiser l’entraînement et aller plus loin (K-Fold cross-validation, GridSearch, RandomizedSearch…)
+[Cours 3](https://github.com/Jehadel/Data-Science-cours/blob/main/Machine%20Learning%20_%20G%C3%A9n%C3%A9ralit%C3%A9s.pdf) : Présentation des généralités sur le Machine Learning, explications SVM + indications pour optimiser l’entraînement et aller plus loin (K-Fold cross-validation, GridSearch, RandomizedSearch…)
