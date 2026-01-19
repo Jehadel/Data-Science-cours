@@ -19,6 +19,8 @@ Cours module data science 2025-2026
 
 [Cours 5](https://github.com/Jehadel/Data-Science-cours/blob/main/Data-Science-05-Traitement-Images-Morphologie-Numpy-VIERGE.ipynb) : approfondissement traitement images (histogrammes : étirement dynamique, seuillage), filtres convolutifs, filtres morphologiques
 
+[TP 5a](https://github.com/Jehadel/Data-Science-cours/blob/main/Data-Science-05-TP-traitement-Images-OpenCV-Scikit-Image-VIERGE.ipynb) : filtres convolutifs et morphologiques avec OpenCV et Scikit-Image, segmentation 
+
 [Modalités d’évaluation](https://github.com/Jehadel/Data-Science-cours/blob/main/Modalit%C3%A9s%20d%E2%80%99%C3%A9valuation.md)
 
 [Présentation projet fil rouge](https://github.com/Jehadel/Data-Science-cours/blob/main/Pr%C3%A9sentation%20projet%20fil%20rouge%20parcours%20Masters%20Data%20%26%20IA%20Ynov%202025%20-%202026.md)
