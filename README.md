@@ -15,7 +15,7 @@ Cours module data science 2025-2026
 
 [Cours 3](https://github.com/Jehadel/Data-Science-cours/blob/main/Machine%20Learning%20_%20G%C3%A9n%C3%A9ralit%C3%A9s.pdf) : Présentation des généralités sur le Machine Learning, explications SVM + indications pour optimiser l’entraînement et aller plus loin (K-Fold cross-validation, GridSearch, RandomizedSearch…)
 
-[Cours 4](https://github.com/Jehadel/Data-Science-cours/blob/main/Data-Science-04-Time-Series-Vierge.ipynb) : Généralités sur les séries temporelles (définition, tendance, saisonnalité, stationnarité…), processus AR, MA, ARMA, différenciation, test ADF, fonction d’autocorrélation ACF, fonction d’autocorrélation partielle PACF, modèles ARIMA et SARIMA
+[Cours 4](https://github.com/Jehadel/Data-Science-cours/blob/main/Data-Science-04-Time-Series-Vierge.ipynb) : Généralités sur les séries temporelles (définition, tendance, saisonnalité, stationnarité…), processus AR, MA, ARMA, différenciation, test ADF, fonction d’autocorrélation ACF, fonction d’autocorrélation partielle PACF, modèles ARIMA et SARIMA ([corrigé](https://github.com/Jehadel/Data-Science-cours/blob/main/Data-Science-04-Time-Series-Corrig%C3%A9s.ipynb))
 
 [Cours 5](https://github.com/Jehadel/Data-Science-cours/blob/main/Data-Science-05-Traitement-Images-Morphologie-Numpy-VIERGE.ipynb) : approfondissement traitement images (histogrammes : étirement dynamique, seuillage), filtres convolutifs, filtres morphologiques
 
