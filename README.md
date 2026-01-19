@@ -18,3 +18,5 @@ Cours module data science 2025-2026
 [Cours 4](https://github.com/Jehadel/Data-Science-cours/blob/main/Data-Science-04-Time-Series-Vierge.ipynb) : Généralités sur les séries temporelles (définition, tendance, saisonnalité, stationnarité…), processus AR, MA, ARMA, différenciation, test ADF, fonction d’autocorrélation ACF, fonction d’autocorrélation partielle PACF, modèles ARIMA et SARIMA
 
 [Modalités d’évaluation](https://github.com/Jehadel/Data-Science-cours/blob/main/Modalit%C3%A9s%20d%E2%80%99%C3%A9valuation.md)
+
+[Présentation projet fil rouge](https://github.com/Jehadel/Data-Science-cours/blob/main/Pr%C3%A9sentation%20projet%20fil%20rouge%20parcours%20Masters%20Data%20%26%20IA%20Ynov%202025%20-%202026.md)
