@@ -23,6 +23,12 @@ Cours module data science 2025-2026
 
 [TP 5b](https://github.com/Jehadel/Data-Science-cours/blob/main/Data-Science-05-TP_Detection_Visages_Haar_LFW.ipynb) (optionnel) : détection visage, Haar Cascade (OpenCV)
 
+[Cours 6](https://github.com/Jehadel/Data-Science-cours/blob/main/Data-Science-06-S%C3%A9curit%C3%A9-des-donn%C3%A9es-RGPD.pdf) : introduction à la sécurité des données et conformité RGPD dans un contexte Data Science (+ annexes : [demo](https://github.com/Jehadel/Data-Science-cours/blob/main/Data-Science-06-Demo-S%C3%A9curit%C3%A9-RGPD.ipynb) + [fiche minimaliste RGPD](https://github.com/Jehadel/Data-Science-cours/blob/main/Data-Science-06-Fiche-traitement-RGPD.pdf))
+
+[Cours 7](https://github.com/Jehadel/Data-Science-cours/blob/main/Data-Science-07-Relation-Client.md) : la relation client dans un contexte data science
+
+[Cours 8](https://github.com/Jehadel/Data-Science-cours/blob/main/Data-Science-08-Communication-Data.md) : la communication en data science
+
 [Modalités d’évaluation](https://github.com/Jehadel/Data-Science-cours/blob/main/Modalit%C3%A9s%20d%E2%80%99%C3%A9valuation.md)
 
 [Présentation projet fil rouge](https://github.com/Jehadel/Data-Science-cours/blob/main/Pr%C3%A9sentation%20projet%20fil%20rouge%20parcours%20Masters%20Data%20%26%20IA%20Ynov%202025%20-%202026.md)
