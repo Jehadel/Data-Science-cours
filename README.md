@@ -31,4 +31,6 @@ Cours module data science 2025-2026
 
 [Modalités d’évaluation](https://github.com/Jehadel/Data-Science-cours/blob/main/Modalit%C3%A9s%20d%E2%80%99%C3%A9valuation.md)
 
+[Grille d’évaluation](https://github.com/Jehadel/Data-Science-cours/blob/main/Co-Evaluations-DataScience.xls)
+
 [Présentation projet fil rouge](https://github.com/Jehadel/Data-Science-cours/blob/main/Pr%C3%A9sentation%20projet%20fil%20rouge%20parcours%20Masters%20Data%20%26%20IA%20Ynov%202025%20-%202026.md)
