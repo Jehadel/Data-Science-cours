@@ -17,9 +17,9 @@ Cours module data science 2025-2026
 
 [Cours 4](https://github.com/Jehadel/Data-Science-cours/blob/main/Data-Science-04-Time-Series-Vierge.ipynb) : Généralités sur les séries temporelles (définition, tendance, saisonnalité, stationnarité…), processus AR, MA, ARMA, différenciation, test ADF, fonction d’autocorrélation ACF, fonction d’autocorrélation partielle PACF, modèles ARIMA et SARIMA ([corrigé](https://github.com/Jehadel/Data-Science-cours/blob/main/Data-Science-04-Time-Series-Corrig%C3%A9s.ipynb))
 
-[Cours 5](https://github.com/Jehadel/Data-Science-cours/blob/main/Data-Science-05-Traitement-Images-Morphologie-Numpy-VIERGE.ipynb) : approfondissement traitement images (histogrammes : étirement dynamique, seuillage), filtres convolutifs, filtres morphologiques
+[Cours 5](https://github.com/Jehadel/Data-Science-cours/blob/main/Data-Science-05-Traitement-Images-Morphologie-Numpy-VIERGE.ipynb) : approfondissement traitement images (histogrammes : étirement dynamique, seuillage), filtres convolutifs, filtres morphologiques ([corrigé](https://github.com/Jehadel/Data-Science-cours/blob/main/Data-Science-05-Traitement-Images-Morphologie-Numpy-CORRIGE.ipynb))
 
-[TP 5a](https://github.com/Jehadel/Data-Science-cours/blob/main/Data-Science-05-TP-traitement-Images-OpenCV-Scikit-Image-VIERGE.ipynb) : filtres convolutifs et morphologiques avec OpenCV et Scikit-Image, segmentation 
+[TP 5a](https://github.com/Jehadel/Data-Science-cours/blob/main/Data-Science-05-TP-traitement-Images-OpenCV-Scikit-Image-VIERGE.ipynb) : filtres convolutifs et morphologiques avec OpenCV et Scikit-Image, segmentation ([corrigé](https://github.com/Jehadel/Data-Science-cours/blob/main/Data-Science-05-TP-traitement-Images-OpenCV-Scikit-Image-CORRIGE.ipynb))
 
 [TP 5b](https://github.com/Jehadel/Data-Science-cours/blob/main/Data-Science-05-TP_Detection_Visages_Haar_LFW.ipynb) (optionnel) : détection visage, Haar Cascade (OpenCV)
 
