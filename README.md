@@ -30,6 +30,7 @@ Cours module data science 2025-2026
 [Cours 8](https://github.com/Jehadel/Data-Science-cours/blob/main/Data-Science-08-Communication-Data.md) : la communication en data science
 
 [Modalités d’évaluation](https://github.com/Jehadel/Data-Science-cours/blob/main/Modalit%C3%A9s%20d%E2%80%99%C3%A9valuation.md)
+
 [QCM](https://github.com/Jehadel/Data-Science-cours/blob/main/QCM_Final_Data-Science.pdf) et [corrigé](https://github.com/Jehadel/Data-Science-cours/blob/main/QCM_Final_Data-Science%20-%20Corrig%C3%A9.pdf)
 
 [Grille d’évaluation](https://github.com/Jehadel/Data-Science-cours/blob/main/Co-Evaluations-DataScience.xls)
